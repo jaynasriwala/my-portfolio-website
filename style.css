@@ -58,6 +58,10 @@ header p {
     object-fit: cover;
 }
 
+.betch{
+    display: flex;
+    gap: 0.5rem;
+}
 /* About section styles */
 #about {
     background-color: #fff; /* Light background */
